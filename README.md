@@ -7,7 +7,7 @@
 4. Ahmed Sami            Id:4210332
 5. Sameh Mohamed         Id:4210305
 6. Mohamed Ahmed         Id:4210446  
-7. Eslam Khaled           Id:4210056
+7. Eslam Khaled          Id:4210056
 8. Yousef Fawzy 
 
 ## Standardization for Project Selection
@@ -30,19 +30,56 @@
    - Is there evidence of market interest or need?
    - Are there potential stakeholders or users for this project?
   
-### First idea havly transportaion accedent 
+### First Idea: Heavy Transportation Accident Prevention
 
 1. **problem**
-   -we need computer vison model can detect if the driver is fainted, was distracted, or fell asleep. 
-   -so we have to make a dicision by automation to stop the car.
-   -example about the problem https://www.youtube.com/watch?v=FiXanTH9sK8
+   -We need a computer vision model that can detect if the driver has fainted, was distracted, or fell asleep.
+   -The system should automate decisions to stop the vehicle in such situations.
+   -Example of the problem: https://www.youtube.com/watch?v=FiXanTH9sK8
    
 2. **Market Segmentation**
-   -we target the Heavy transport owners or those who travel distances longer than 3 hours.
+   -Targeting heavy transport owners or those who travel distances longer than 3 hours.
    
 3. **Data Availability**
-   -there are many data on youtube public
+   -There is a wealth of public data available on platforms like YouTube.
+   
+4. **Market Demand**
+   -NVIDIA has been working on a related project, indicating potential market interest.
+
+
+
+### Second Idea: SaaS Platform (Feedback System)
+
+1. **Problem**
+   -Currently, feedback is given in two ways: stars or written reviews.
+   -Star ratings are not descriptive or effective enough.
+   -Our goal is to analyze sentences by NLP model to capture the most accurate meaning possible.
+   
+2. **Market Segmentation**
+   -Amazon.eg, alibaba
+   -all egyption E-commerce.
+   
+3. **Data Availability**
+   -There are publicly available datasets, and we can scrape data from web apps for training purposes.
+   -We will provide an open API for integration.
+   
+   
+4. **Market Demand**
+   -There is a system for foreign languages, but nothing tailored to the Egyptian market.
+   
+### third idea Educational app 
+
+1. **Problem**
+   -The COVID-19 pandemic highlighted the importance of online learning, but many issues arose, particularly with testing and quizzes.
+   -Students can easily cheat, so we need to develop software that facilitates modern learning processes (e.g., scheduling, meetings, tests, quizzes, assignments).
+   
+3. **Market Segmentation**
+   -Targeting institutions like Modern Academy.
+   
+4. **Data Availability**
+   -Data availability may pose a challenge.
+   
    
 5. **Market Demand**
-   -I think there are project NVIDA was working about it.
+   -Japan has implemented similar systems, showing there’s a potential market for this.
    

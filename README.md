@@ -35,7 +35,7 @@
 1. **problem**
    -We need a computer vision model that can detect if the driver has fainted, was distracted, or fell asleep.
    -The system should automate decisions to stop the vehicle in such situations.
-   -Example of the problem: https://www.youtube.com/watch?v=FiXanTH9sK8
+   -Example of the problem: [Youtube video](https://www.youtube.com/watch?v=FiXanTH9sK8)
    
 2. **Market Segmentation**
    -Targeting heavy transport owners or those who travel distances longer than 3 hours.
@@ -87,7 +87,7 @@
 
 1. **Problem**
    -Sports analytics for boxing sport
-   -Example of the problem: [Youtube](https://www.youtube.com/watch?v=L23oIHZE14w)
+   -Example of the problem: [Youtube video](https://www.youtube.com/watch?v=L23oIHZE14w)
    
 3. **Market Segmentation**
    -boxing fans

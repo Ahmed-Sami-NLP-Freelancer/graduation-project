@@ -73,13 +73,28 @@
    -The COVID-19 pandemic highlighted the importance of online learning, but many issues arose, particularly with testing and quizzes.
    -Students can easily cheat, so we need to develop software that facilitates modern learning processes (e.g., scheduling, meetings, tests, quizzes, assignments).
    
-3. **Market Segmentation**
+2. **Market Segmentation**
    -Targeting institutions like Modern Academy.
    
-4. **Data Availability**
+3. **Data Availability**
    -Data availability may pose a challenge.
    
    
-5. **Market Demand**
+4. **Market Demand**
    -Japan has implemented similar systems, showing there’s a potential market for this.
    
+   ### Forth idea Educational app 
+
+1. **Problem**
+   -Sports analytics for boxing sport
+   -Example of the problem: [Youtube](https://www.youtube.com/watch?v=L23oIHZE14w)
+   
+3. **Market Segmentation**
+   -boxing fans
+   
+4. **Data Availability**
+   -there are many match are public for free.
+   
+   
+5. **Market Demand**
+   -there are models in football, tanners sport.

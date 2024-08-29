@@ -98,3 +98,35 @@
    
 5. **Market Demand**
    -there are models in football, tanners sport.
+
+1. **Problem**
+   -The COVID-19 pandemic highlighted the importance of online learning, but many issues arose, particularly with testing and quizzes.
+   -Students can easily cheat, so we need to develop software that facilitates modern learning processes (e.g., scheduling, meetings, tests, quizzes, assignments).
+   
+2. **Market Segmentation**
+   -Targeting institutions like Modern Academy.
+   
+3. **Data Availability**
+   -Data availability may pose a challenge.
+   
+   
+4. **Market Demand**
+   -Japan has implemented similar systems, showing there’s a potential market for this.
+   
+   ### fifth idea Traffic Vehicle Counting and Classification
+
+1. **Problem**
+   -Objective: Estimate the density of traffic in a given area by analyzing video feeds from traffic cameras.
+   -Techniques: Use deep learning models for object detection and density estimation. Optical flow methods can also be used to estimate traffic movement.
+   -Applications: Traffic management systems can use this to control traffic lights, send alerts for congestion, or reroute traffic.
+
+   
+3. **Market Segmentation**
+   -traffic systems
+   
+4. **Data Availability**
+   -there are many traffic are public for free.
+   
+   
+5. **Market Demand**
+   -there are models in US,UK.

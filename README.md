@@ -1,14 +1,12 @@
 # Graduation Project
 
 ### Team memmber 
-1. Galal Salah           Id:4210058
-2. Abd-Elwahaab Hany     Id:4210312
-3. Mohamed Abd-Elhalem   Id:4210161
-4. Ahmed Sami            Id:4210332
-5. Sameh Mohamed         Id:4210305
-6. Mohamed Ahmed         Id:4210446  
-7. Eslam Khaled          Id:4210056
-8. Yousef Fawzy          Id:4210166
+1. Abd-Elwahaab Hany     Id:4210312
+2. Mohamed Abd-Elhalem   Id:4210161
+3. Ahmed Sami            Id:4210332
+4. Sameh Mohamed         Id:4210305
+5. Mohamed Ahmed         Id:4210446  
+6. Yousef Fawzy          Id:4210166
 
 ## Standardization for Project Selection
 

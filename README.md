@@ -33,7 +33,8 @@
 1. **problem**
    there are many football players in egypt every year in ramadan shareing thir skkils of playing at the internet, so need to build a social media 
    pulic platform for this video's when create an acount we need to know if one player or teem ?
-   1. if one player  
+   1. if one player we will prepare his profile with 0 skills as defualt values then with publishing we will detect him by in the first we will ask 
+      from him some of skills without 
    
 3. **Market Segmentation**
    -Targeting heavy transport owners or those who travel distances longer than 3 hours.

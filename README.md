@@ -31,100 +31,19 @@
 ### First Idea: Heavy Transportation Accident Prevention
 
 1. **problem**
-   -We need a computer vision model that can detect if the driver has fainted, was distracted, or fell asleep.
-   -The system should automate decisions to stop the vehicle in such situations.
-   -Example of the problem: [Youtube video](https://www.youtube.com/watch?v=FiXanTH9sK8)
+   there are many football players in egypt every year in ramadan shareing thir skkils of playing at the internet, so need to build a social media 
+   pulic platform for this video's when create an acount we need to know if one player or teem ?
+   1. if one player  
    
-2. **Market Segmentation**
+3. **Market Segmentation**
    -Targeting heavy transport owners or those who travel distances longer than 3 hours.
    
-3. **Data Availability**
+4. **Data Availability**
    -There is a wealth of public data available on platforms like YouTube.
    
-4. **Market Demand**
+5. **Market Demand**
    -NVIDIA has been working on a related project, indicating potential market interest.
 
 
 
-### Second Idea: SaaS Platform (Feedback System)
 
-1. **Problem**
-   -Currently, feedback is given in two ways: stars or written reviews.
-   -Star ratings are not descriptive or effective enough.
-   -Our goal is to analyze sentences by NLP model to capture the most accurate meaning possible.
-   
-2. **Market Segmentation**
-   -Amazon.eg, alibaba
-   -all egyption E-commerce.
-   
-3. **Data Availability**
-   -There are publicly available datasets, and we can scrape data from web apps for training purposes.
-   -We will provide an open API for integration.
-   
-   
-4. **Market Demand**
-   -There is a system for foreign languages, but nothing tailored to the Egyptian market.
-   
-### third idea Educational app 
-
-1. **Problem**
-   -The COVID-19 pandemic highlighted the importance of online learning, but many issues arose, particularly with testing and quizzes.
-   -Students can easily cheat, so we need to develop software that facilitates modern learning processes (e.g., scheduling, meetings, tests, quizzes, assignments).
-   
-2. **Market Segmentation**
-   -Targeting institutions like Modern Academy.
-   
-3. **Data Availability**
-   -Data availability may pose a challenge.
-   
-   
-4. **Market Demand**
-   -Japan has implemented similar systems, showing there’s a potential market for this.
-   
-   ### Forth idea Educational app 
-
-1. **Problem**
-   -Sports analytics for boxing sport
-   -Example of the problem: [Youtube video](https://www.youtube.com/watch?v=L23oIHZE14w)
-   
-3. **Market Segmentation**
-   -boxing fans
-   
-4. **Data Availability**
-   -there are many match are public for free.
-   
-   
-5. **Market Demand**
-   -there are models in football, tanners sport.
-
-1. **Problem**
-   -The COVID-19 pandemic highlighted the importance of online learning, but many issues arose, particularly with testing and quizzes.
-   -Students can easily cheat, so we need to develop software that facilitates modern learning processes (e.g., scheduling, meetings, tests, quizzes, assignments).
-   
-2. **Market Segmentation**
-   -Targeting institutions like Modern Academy.
-   
-3. **Data Availability**
-   -Data availability may pose a challenge.
-   
-   
-4. **Market Demand**
-   -Japan has implemented similar systems, showing there’s a potential market for this.
-   
-   ### fifth idea Traffic Vehicle Counting and Classification
-
-1. **Problem**
-   -Objective: Estimate the density of traffic in a given area by analyzing video feeds from traffic cameras.
-   -Techniques: Use deep learning models for object detection and density estimation. Optical flow methods can also be used to estimate traffic movement.
-   -Applications: Traffic management systems can use this to control traffic lights, send alerts for congestion, or reroute traffic.
-
-   
-3. **Market Segmentation**
-   -traffic systems
-   
-4. **Data Availability**
-   -there are many traffic are public for free.
-   
-   
-5. **Market Demand**
-   -there are models in US,UK.

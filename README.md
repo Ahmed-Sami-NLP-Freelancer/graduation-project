@@ -1,12 +1,13 @@
-# Graduation Project
+# Graduation Project => 
 
 ### Team memmber 
-1. Abd-Elwahaab Hany     Id:4210312
+1. Abd-Elwahaab Hany     Id:4210312  CV Enginnering 
 2. Mohamed Abd-Elhalem   Id:4210161
 3. Ahmed Sami            Id:4210332
 4. Sameh Mohamed         Id:4210305
 5. Mohamed Ahmed         Id:4210446  
 6. Yousef Fawzy          Id:4210166
+7. gala salah            Id:4210058
 
 ## Standardization for Project Selection
 
@@ -37,14 +38,19 @@
       from him some of skills without 
    
 3. **Market Segmentation**
-   -Targeting heavy transport owners or those who travel distances longer than 3 hours.
+   -Targeting heavy transport owners or those who travel distances longer than 1 hours.
    
 4. **Data Availability**
    -There is a wealth of public data available on platforms like YouTube.
    
 5. **Market Demand**
-   -NVIDIA has been working on a related project, indicating potential market interest.
+   -Bein Sport, market place for transfare market depend on player analtsis 
 
 
 
-
+task -
+1-meeting in newt two weeks 
+2-Jira 
+3-Github & git
+4-project name
+5-achived time 

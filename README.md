@@ -8,7 +8,7 @@
 5. Mohamed Ahmed         Id:4210446  Mobile  Developer
 6. Yousef Fawzy          Id:4210166  Data Analtsis
 7. gala salah            Id:4210058  backend Enginner
-
+8. Ahmed Salah           Id:4210253  Mobile Developer
 ## Standardization for Project Selection
 
 ### Criteria:

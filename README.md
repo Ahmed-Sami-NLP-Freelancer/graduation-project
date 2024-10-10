@@ -29,7 +29,7 @@
    - Is there evidence of market interest or need?
    - Are there potential stakeholders or users for this project?
   
-### First Idea: Heavy Transportation Accident Prevention
+### First Idea: showing the talanet local player to help the dicion makers 
 
 1. **problem**
    there are many football players in egypt every year in ramadan shareing thir skkils of playing at the internet, so need to build a social media 
@@ -52,9 +52,4 @@ arabic-description :
 المهم اي حد يقدر يفتح ال app  و يشوف list كبيرة من الفيديوهات اول أما الفديو يشتغل ب خمس ثواني هنعرض كرت اللاعب زي بيس كدا و بعد كدا نشغل الفديو الي ممكن  يكون اكتر من دقيقه و في نفس الوقت في shorts للفديوهات الدقيقه فيما أقل و من وقت ل التاني في عروض علي دورات رمضانية او غيرة في بثوث و برضوا في شاشة للبثوث بس شرط يبقي بث ل دورة طب بعد كدا كل شاب هيبقي ليه profile  بيعرض تحليلات عنه و فديوهات و لو هو تبع فريق الفريق دا حقق انجازات ايه و هكذا و من هنا نقدر نقول إن شاب يقدر يعمل فريق و دا القائد و يبعت دعوه ل زميلة و ينضموا للفريق دا و يقدر ينشئ دورة و يبعت دعوة للفرق التانيه لو تحب تنضم المهم الفريق مش هيبقي فريق إلا بعد ماشركة عدد معين و الدوري مش دوري إلا بعد مشاركة عدد معين 
 كدا قولنا الشاشه الرئيسيه و قولنا شاشة ال profile  في شاشه كمان للمركاتوا و كل شاب هيبقي ليه سعر عندنا علي ال app و يقدر يشوف زميلة و هكذا و محتاجين شاشة للمحادثة و لل notification و شاشة للأعدادات زي بيتاعت الفرق و الدورات الأسم الصورة و الحجات الي شبة كدا
 
-task -
-1-meeting in newt two weeks 
-2-Jira 
-3-Github & git
-4-project name
-5-achived time 
+

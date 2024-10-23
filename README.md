@@ -52,4 +52,8 @@ arabic-description :
 المهم اي حد يقدر يفتح ال app  و يشوف list كبيرة من الفيديوهات اول أما الفديو يشتغل ب خمس ثواني هنعرض كرت اللاعب زي بيس كدا و بعد كدا نشغل الفديو الي ممكن  يكون اكتر من دقيقه و في نفس الوقت في shorts للفديوهات الدقيقه فيما أقل و من وقت ل التاني في عروض علي دورات رمضانية او غيرة في بثوث و برضوا في شاشة للبثوث بس شرط يبقي بث ل دورة طب بعد كدا كل شاب هيبقي ليه profile  بيعرض تحليلات عنه و فديوهات و لو هو تبع فريق الفريق دا حقق انجازات ايه و هكذا و من هنا نقدر نقول إن شاب يقدر يعمل فريق و دا القائد و يبعت دعوه ل زميلة و ينضموا للفريق دا و يقدر ينشئ دورة و يبعت دعوة للفرق التانيه لو تحب تنضم المهم الفريق مش هيبقي فريق إلا بعد ماشركة عدد معين و الدوري مش دوري إلا بعد مشاركة عدد معين 
 كدا قولنا الشاشه الرئيسيه و قولنا شاشة ال profile  في شاشه كمان للمركاتوا و كل شاب هيبقي ليه سعر عندنا علي ال app و يقدر يشوف زميلة و هكذا و محتاجين شاشة للمحادثة و لل notification و شاشة للأعدادات زي بيتاعت الفرق و الدورات الأسم الصورة و الحجات الي شبة كدا
 
+english-description : 
+We are developing a mobile app that allows users to upload and share videos of football players, captured during informal matches, training sessions, or tournaments (e.g., school courses, academies, Ramadan tournaments, or college events). These videos will be analyzed using performance metrics like pass accuracy, shot accuracy, and other key skills. Players can optionally complete specific tasks or challenges, which help enhance the analysis of their performance.
+The analyzed data will then be used to assign points to players, which they can redeem or sell through our marketplace to clubs or academies interested in scouting new talent. The app will have a social media-like interface, similar to TikTok, where users can view, interact with, and share player videos.
+
 
